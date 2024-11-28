@@ -1,0 +1,14 @@
+#chart {
+  display: flex;
+  align-items: center;
+}
+
+div.hoverChart {
+  position: absolute;
+  height: 225px;
+  width: 325px;
+  color: black;
+  background: rgb(215, 214, 214);
+  border-radius: 3px;
+  pointer-events: none
+}
